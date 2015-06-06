@@ -1,0 +1,3 @@
+Zadejte pozadovany vysledek:
+Zadejte pocet cifer:
+Celkem reseni: 0

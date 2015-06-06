@@ -1,0 +1,3 @@
+Enter desired result:
+Enter number of digits:
+Total solutions: 0

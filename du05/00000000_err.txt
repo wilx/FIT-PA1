@@ -1,0 +1,6 @@
++./run-geninst-test.sh:13> ./geninst-du05
+seed: 1292129131
+needle_rows: 690
+needle_columns: 513
+haystack_rows: 521
+haystack_columns: 171

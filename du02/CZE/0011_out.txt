@@ -1,0 +1,3 @@
+Zadejte prvni datum - den mesic rok:
+Zadejte druhe datum - den mesic rok:
+Nespravny vstup.

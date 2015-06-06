@@ -1,0 +1,3 @@
+Enter first date - day month year:
+Enter second date - day month year:
+11 days elapsed between 2000-1-6 and 2000-1-17.

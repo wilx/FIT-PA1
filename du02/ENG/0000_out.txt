@@ -1,0 +1,3 @@
+Enter first date - day month year:
+Enter second date - day month year:
+3926 days elapsed between 2000-1-1 and 2010-10-1.

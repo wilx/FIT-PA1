@@ -1,0 +1,3 @@
+Enter first date - day month year:
+Enter second date - day month year:
+The first date comes after the second.

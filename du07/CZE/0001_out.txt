@@ -1,0 +1,7 @@
+Zadejte pozadovany vysledek:
+Zadejte pocet cifer:
+0-10001 bin = -17 dec
+1-10010 bin = -17 dec
+1-110*11 bin = -17 dec
+1-11*110 bin = -17 dec
+Celkem reseni: 4

@@ -1,0 +1,5 @@
+Zadejte souradnice bodu A:
+Zadejte souradnice bodu B:
+Zadejte souradnice bodu C:
+Body lezi na jedne primce.
+Nektere body splyvaji - zadny neni uprostred.

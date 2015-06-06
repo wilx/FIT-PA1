@@ -1,0 +1,5 @@
+Enter point A coordinates:
+Enter point B coordinates:
+Enter point C coordinates:
+There exists a line connecting all three points.
+No point is in the middle - some points are identical.

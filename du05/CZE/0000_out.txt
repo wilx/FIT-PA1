@@ -1,0 +1,4 @@
+Zadejte pocet radek hledane matice:
+Zadejte hledanou matici:
+Matice, ktera bude prohledana:
+Matice nalezena 1 krat.

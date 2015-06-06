@@ -1,0 +1,3 @@
+Enter point A coordinates:
+Enter point B coordinates:
+Invalid input.

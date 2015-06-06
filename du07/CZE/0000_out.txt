@@ -1,0 +1,19 @@
+Zadejte pozadovany vysledek:
+Zadejte pocet cifer:
+01010 bin = 10 dec
+0+1010 bin = 10 dec
+1001+1 bin = 10 dec
+1010+0 bin = 10 dec
+1010-0 bin = 10 dec
+1010*1 bin = 10 dec
+1010/1 bin = 10 dec
+1011-1 bin = 10 dec
+101*10 bin = 10 dec
+10*101 bin = 10 dec
+111+11 bin = 10 dec
+11+111 bin = 10 dec
+11*11+1 bin = 10 dec
+1+1001 bin = 10 dec
+1+11*11 bin = 10 dec
+1*1010 bin = 10 dec
+Celkem reseni: 16

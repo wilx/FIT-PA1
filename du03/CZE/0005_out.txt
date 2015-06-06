@@ -1,0 +1,3 @@
+Zadejte souradnice bodu:
+Zadejte body n-uhelniku:
+Zadany n-uhelnik neni konvexni.

@@ -1,0 +1,3 @@
+Zadejte pocet radek hledane matice:
+Zadejte hledanou matici:
+Nespravny vstup.
